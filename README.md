@@ -1,6 +1,5 @@
 Cost Price Calculation Fundamentals
 
-
 A concept you are hopefully familiar with is cost…roughly defined as “the amount you pay for something”.  In Wall Street Office, we often deal with cost, but we frequently want to know the cost per unit.  We refer to the cost per unit as Cost Price.  For example, if you buy 2 shares for $1, your cost is $1 but your Cost Price of the shares is $.50.  Expanding this example further, assume you buy 2 shares for $1 and then buy another 2 shares for $1.40, you now have 4 shares that cost a total of $2.40 and the Cost Price of the 4 shares is $.60.  
 
 To complicate matters a bit, we also frequently deal with a concept that we call the Cost Method.  In Wall Street Office, we have 5 different Cost Methods: FIFO, LIFO, Highest Cost, Lowest Cost and Weighted Average.  The Cost Method determines how the cost and Cost Price of a sale or remaining position are derived.
